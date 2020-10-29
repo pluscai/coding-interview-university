@@ -290,8 +290,9 @@ Here is an article I wrote about choosing a language for the interview:
 You need to be very comfortable in the language and be knowledgeable.
 
 Read more about choices:
-- http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
-- http://blog.codingforinterviews.com/best-programming-language-jobs/
+- [x] http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
+- [ ] http://blog.codingforinterviews.com/best-programming-language-jobs/
+
 
 [See language resources here](programming-language-resources.md)
 
@@ -301,7 +302,7 @@ You'll see some C, C++, and Python learning included below, because I'm learning
 
 This is a shorter list than what I used. This is abbreviated to save you time.
 
-### Interview Prep
+### Interview Pre
 
 - [ ] [Programming Interviews Exposed: Coding Your Way Through the Interview, 4th Edition](https://www.amazon.com/Programming-Interviews-Exposed-Through-Interview/dp/111941847X/)
     - answers in C++ and Java
