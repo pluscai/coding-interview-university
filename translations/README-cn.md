@@ -195,7 +195,7 @@
     - [ ] [电话面试的问题](http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 
 - [ ] 附加的（虽然 Google 不建议，但我还是添加在此）：
-    - [ ] [ABC：不要停止编程（Always Be Coding）](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+    - [x] [ABC：不要停止编程（Always Be Coding）](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
     - [ ] [四步成为 Google 里一名没有学位的员工](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.asalo1vfx)
     - [ ] [共享白板（Whiteboarding）](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
     - [ ] [Google 是如何看待应聘、管理和公司文化](http://www.kpcb.com/blog/lessons-learned-how-google-thinks-about-hiring-management-and-culture)
@@ -1271,10 +1271,10 @@
 
     *****************************************************************************************************
     *****************************************************************************************************
-
+    
     下面的内容都是可选的。这些是我的推荐，不是 Google 的。
     通过学习这些内容，你将会得到更多的有关 CS 的概念，并将为所有的软件工程工作做更好的准备。
-
+    
     *****************************************************************************************************
     *****************************************************************************************************
 
