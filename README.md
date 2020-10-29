@@ -259,9 +259,9 @@ Sometimes the classes are not in session so you have to wait a couple of months,
     - [ ] [The Approach](https://www.youtube.com/watch?v=wCl9kvQGHPI)
     - [ ] [Problem Walkthrough](https://www.youtube.com/watch?v=4UWDyJq8jZg)
 - [ ] Prep Course:
-    - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
+    - [ ] ~~[Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):~~
         - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
-    - [ ] [Python for Data Structures, Algorithms, and Interviews (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
+    - [ ] ~~[Python for Data Structures, Algorithms, and Interviews (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):~~
         - A Python centric interview prep course which covers data structures, algorithms, mock interviews and much more.
     - [ ] [Intro to Data Structures and Algorithms using Python (Udacity free course)](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513):
         - A free Python centric data structures and algorithms course.
@@ -283,7 +283,9 @@ You could also use these, but read around first. There may be caveats:
 - JavaScript
 - Ruby
 
-Here is an article I wrote about choosing a language for the interview: [Pick One Language for the Coding Interview](https://startupnextdoor.com/important-pick-one-language-for-the-coding-interview/).
+Here is an article I wrote about choosing a language for the interview: 
+
+- [x] [Pick One Language for the Coding Interview](https://startupnextdoor.com/important-pick-one-language-for-the-coding-interview/).
 
 You need to be very comfortable in the language and be knowledgeable.
 
