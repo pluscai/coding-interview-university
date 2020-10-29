@@ -291,8 +291,7 @@ You need to be very comfortable in the language and be knowledgeable.
 
 Read more about choices:
 - [x] http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
-- [ ] http://blog.codingforinterviews.com/best-programming-language-jobs/
-
+- [x] http://blog.codingforinterviews.com/best-programming-language-jobs/
 
 [See language resources here](programming-language-resources.md)
 
